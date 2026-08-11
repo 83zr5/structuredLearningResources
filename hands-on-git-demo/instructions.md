@@ -1,7 +1,7 @@
 # Instructions
 1. Go to [The GitHub Markdown Cheat Sheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to get a view of all the different things you can do with Markdown.
 
-2. Create a new branch off of the git-learning branch with your name as the branch name. Checkout to that branch.
+2. Create a new branch off of the main branch with your name as the branch name. Checkout to that branch.
 
 3. Create a new file (IN THIS FOLDER) with a unique name. Make the file neatly formatted and use it to either:
     * Describe some code that you've recently written in detail. Explain where it can be found, why it was created or changed, and if you've completely tested that it works (and the results of that testing). 
