@@ -1,5 +1,5 @@
 # Instructions
-1. Go to [The GitHub Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) to get a view of all the different things you can do with Markdown.
+1. Go to [The GitHub Markdown Cheat Sheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to get a view of all the different things you can do with Markdown.
 
 2. Create a new branch off of the git-learning branch with your name as the branch name. Checkout to that branch.
 
